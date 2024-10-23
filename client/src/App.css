@@ -1,0 +1,30 @@
+.add_btn {
+  text-align: right;
+  margin-bottom: 5px;
+}
+.red-star {
+  color: red;
+  font-size: 20px; /* Adjust size as needed */
+}
+.container {
+  overflow: auto;
+}
+.left_view h3 {
+  font-size: 21px;
+}
+.left_view p {
+  font-weight: 600;
+}
+.left_view span {
+  font-weight: 400;
+}
+.Right_view h3 {
+  font-size: 21px;
+}
+
+.Right_view p {
+  font-weight: 600;
+}
+.Right_view span {
+  font-weight: 400;
+}
